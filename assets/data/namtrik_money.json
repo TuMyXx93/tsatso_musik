@@ -54,8 +54,8 @@
             {
                 "number": 6,
                 "money_images": [
-                    "2000_1.jpg",
-                    "2000_2.jpg"
+                    "2000_1.png",
+                    "2000_2.png"
                 ],
                 "money_namtrik": "Paishik",
                 "value_money": 2000,
@@ -64,8 +64,8 @@
             {
                 "number": 7,
                 "money_images": [
-                    "5000_1.jpg",
-                    "5000_2.jpg"
+                    "5000_1.png",
+                    "5000_2.png"
                 ],
                 "money_namtrik": "Trattrɵishik",
                 "value_money": 5000,
@@ -74,8 +74,8 @@
             {
                 "number": 8,
                 "money_images": [
-                    "10000_1.jpg",
-                    "10000_2.jpg"
+                    "10000_1.png",
+                    "10000_2.png"
                 ],
                 "money_namtrik": "Kantsiishik",
                 "value_money": 10000,
@@ -84,8 +84,8 @@
             {
                 "number": 9,
                 "money_images": [
-                    "20000_1.jpg",
-                    "20000_2.jpg"
+                    "20000_1.png",
+                    "20000_2.png"
                 ],
                 "money_namtrik": "Patsiishik",
                 "value_money": 20000,
@@ -94,8 +94,8 @@
             {
                 "number": 10,
                 "money_images": [
-                    "50000_1.jpg",
-                    "50000_2.jpg"
+                    "50000_1.png",
+                    "50000_2.png"
                 ],
                 "money_namtrik": "Trattrɵtsiishik",
                 "value_money": 50000,
@@ -104,8 +104,8 @@
             {
                 "number": 11,
                 "money_images": [
-                    "100000_1.jpg",
-                    "100000_2.jpg"
+                    "100000_1.png",
+                    "100000_2.png"
                 ],
                 "money_namtrik": "Kansrelishik",
                 "value_money": 100000,
