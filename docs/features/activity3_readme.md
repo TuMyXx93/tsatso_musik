@@ -79,7 +79,7 @@ Los tres niveles utilizan una estética común con colores tierra/marrón que te
   * Define los tres niveles de la actividad con sus títulos y descripciones.
   * Utiliza constantes desde `ActivityLevelDescriptions` para mantener consistencia.
 
-* **`assets/data/namtrik_hours.json`**: 
+* **`assets/data/a3_namuiwam_hours.json`**: 
   * Archivo JSON que contiene datos sobre horas en Namtrik, incluyendo:
     * Valores numéricos (horas, minutos).
     * Representaciones textuales en Namtrik.

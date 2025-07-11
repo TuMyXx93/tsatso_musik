@@ -99,12 +99,12 @@ Los cuatro niveles utilizan una estética común con colores rojizos terrosos qu
 
 Los datos utilizados por la actividad se almacenan en varios archivos JSON:
 
-* **`assets/data/namtrik_money.json`**: 
+* **`assets/data/a4_l1_namuiwam_money.json`**: 
   * Define todas las denominaciones monetarias disponibles en Namtrik.
   * Incluye rutas a imágenes, nombres, valores y archivos de audio.
   * Utilizado en todos los niveles como referencia principal.
 
-* **`assets/data/namtrik_articles.json`**: 
+* **`assets/data/a4_l2_namuiwam_articles.json`**: 
   * Define los artículos disponibles para el Nivel 2.
   * Incluye imágenes, precios y las denominaciones requeridas para pagarlos.
 

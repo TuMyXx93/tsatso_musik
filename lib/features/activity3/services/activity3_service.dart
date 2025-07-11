@@ -102,14 +102,14 @@ class Activity3Service {
   /// {
   ///   "id": "1:30",
   ///   "clock_image": "assets/images/clocks/clock_01_30.png",
-  ///   "hour_namtrik": "pik unan oraisku tsik yam"
+  ///   "hour_namtrik": "Kan utɵ pɵntsi"
   /// }
   /// ```
   Future<Map<String, dynamic>> _getLevel1Data() async {
     try {
       // Cargar datos del archivo JSON
       final String jsonString =
-          await rootBundle.loadString('assets/data/namtrik_hours.json');
+          await rootBundle.loadString('assets/data/a3_namuiwam_hours.json');
       final Map<String, dynamic> jsonData = json.decode(jsonString);
 
       // Obtener la lista de horas
@@ -174,7 +174,7 @@ class Activity3Service {
     try {
       // Cargar datos del archivo JSON
       final String jsonString =
-          await rootBundle.loadString('assets/data/namtrik_hours.json');
+          await rootBundle.loadString('assets/data/a3_namuiwam_hours.json');
       final Map<String, dynamic> jsonData = json.decode(jsonString);
 
       // Obtener la lista de horas
@@ -256,7 +256,7 @@ class Activity3Service {
     try {
       // Cargar datos del archivo JSON
       final String jsonString =
-          await rootBundle.loadString('assets/data/namtrik_hours.json');
+          await rootBundle.loadString('assets/data/a3_namuiwam_hours.json');
       final Map<String, dynamic> jsonData = json.decode(jsonString);
 
       // Obtener la lista de horas

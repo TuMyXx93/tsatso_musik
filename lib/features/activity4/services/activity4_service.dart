@@ -80,7 +80,7 @@ class Activity4Service {
 
     // Cargar el archivo JSON
     final String response =
-        await rootBundle.loadString('assets/data/namtrik_money.json');
+        await rootBundle.loadString('assets/data/a4_l1_namuiwam_money.json');
     final data = await json.decode(response);
 
     // Extraer los datos del JSON
@@ -118,7 +118,7 @@ class Activity4Service {
 
     // Cargar el archivo JSON
     final String response =
-        await rootBundle.loadString('assets/data/namtrik_articles.json');
+        await rootBundle.loadString('assets/data/a4_l2_namuiwam_articles.json');
     final data = await json.decode(response);
 
     // Extraer los datos del JSON
