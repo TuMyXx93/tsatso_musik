@@ -166,3 +166,17 @@ Independientemente del sub-nivel, se aplican las siguientes mecánicas:
   - Se utilizan efectos de sonido (proporcionados por `SoundService`) para el feedback de acierto o error en los niveles 2, 3 y 4 (Nivel 1 es de exploración).
 - **Puntuación y Progreso:** Completar un nivel correctamente otorga puntos y actualiza el estado global del juego, marcando el nivel como superado.
 - **Diálogos Informativos:** Se usan diálogos para comunicar felicitaciones, agotamiento de intentos, o para confirmar acciones.
+
+## Evidencias Visuales e Interfaz
+
+<p align="center">
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity4/activity-4.1.webp" width="180" alt="Actividad 4 - Vista 1" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity4/activity-4.2.webp" width="180" alt="Actividad 4 - Vista 2" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity4/activity-4.3.webp" width="180" alt="Actividad 4 - Vista 3" />
+</p>
+<p align="center">
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity4/activity-4.4.webp" width="180" alt="Actividad 4 - Vista 4" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity4/activity-4.5.webp" width="180" alt="Actividad 4 - Vista 5" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity4/activity-4.6.webp" width="180" alt="Actividad 4 - Vista 6" />
+</p>
+
