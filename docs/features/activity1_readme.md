@@ -137,3 +137,12 @@ La funcionalidad principal de la actividad está completa. Futuras mejoras podr�
 - **Intentos:** El usuario dispone de un número limitado de intentos (generalmente 3) para acertar.
 - **Puntuación:** Al seleccionar la respuesta correcta, el usuario gana puntos que se suman a su progreso global.
 - **Avance:** Al completar el nivel (responder correctamente), se desbloquea el siguiente nivel dentro de la actividad (si aplica) y el usuario puede continuar.
+
+## Evidencias Visuales e Interfaz
+
+<p align="center">
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity1/activity-1.1.webp" width="260" alt="Pantalla de Selección de Niveles" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity1/activity-1.2.webp" width="260" alt="Pantalla de Juego - Actividad 1" />
+</p>
+
