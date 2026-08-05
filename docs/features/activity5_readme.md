@@ -114,3 +114,10 @@ A diferencia de las actividades anteriores basadas en niveles, la Actividad 5 pr
 ## Estado
 
 Completo. La funcionalidad descrita está implementada, **incluyendo la composición dinámica de números hasta 9,999,999 y la reproducción de audio secuencial mejorada.**
+
+## Evidencias Visuales e Interfaz
+
+<p align="center">
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity5/activity-5.1.webp" width="260" alt="Actividad 5 - Conversor de Números a Namtrik" />
+</p>
+
