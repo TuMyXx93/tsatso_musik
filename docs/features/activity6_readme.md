@@ -181,3 +181,12 @@ La funcionalidad base del diccionario está completa. El desarrollo futuro se ce
 * **Favoritos**: Permitir a los usuarios marcar entradas como favoritas para acceso rápido.
 * **Pronunciación por TTS**: Añadir soporte para Text-to-Speech como alternativa a archivos de audio predefinidos.
 * **Exportación**: Permitir exportar subconjuntos del diccionario para uso offline o compartir.
+
+## Evidencias Visuales e Interfaz
+
+<p align="center">
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity6/activity-6.1.webp" width="260" alt="Diccionario Namtrik - Vista 1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity6/activity-6.2.webp" width="260" alt="Diccionario Namtrik - Vista 2" />
+</p>
+
