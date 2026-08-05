@@ -130,3 +130,13 @@ Aunque cada sub-nivel tiene una interacción específica, comparten algunas mec�
     - Se utilizan efectos de sonido (proporcionados por `SoundService`) para reforzar la retroalimentación de acierto o error en cada interacción evaluada.
 - **Sistema de Intentos:** El jugador tiene un número limitado de intentos para completar la tarea correctamente.
 - **Puntuación y Progreso:** Al superar un nivel, se otorgan puntos y se marca como completado, permitiendo el avance.
+
+## Evidencias Visuales e Interfaz
+
+<p align="center">
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity3/activity-3.1.webp" width="200" alt="Actividad 3 - Vista 1" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity3/activity-3.2.webp" width="200" alt="Actividad 3 - Vista 2" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity3/activity-3.3.webp" width="200" alt="Actividad 3 - Vista 3" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity3/activity-3.4.webp" width="200" alt="Actividad 3 - Vista 4" />
+</p>
+
