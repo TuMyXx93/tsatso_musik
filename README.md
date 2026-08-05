@@ -14,6 +14,28 @@ Tsatsɵ Musik es una aplicación móvil educativa e interactiva, desarrollada co
   <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/general/home-4.webp" width="170" alt="Home 4" />
 </p>
 
+<p align="center">
+  <a href="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/apk/tsatsomusik-latest.apk">
+    <img src="https://img.shields.io/badge/Descargar_APK-Android_Directo-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK Android" />
+  </a>
+</p>
+
+## 📱 Descarga e Instalación
+
+La aplicación se encuentra validada y disponible para dispositivos Android a través del paquete de instalación directa (`.apk`):
+
+<p align="left">
+  <a href="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/apk/tsatsomusik-latest.apk">
+    <img src="https://img.shields.io/badge/Descargar_APK-Directo_v1.0.0-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK" />
+  </a>
+</p>
+
+### Requisitos Mínimos:
+* **Sistema Operativo:** Android 5.0 (Lollipop) o superior.
+* **Espacio Requerido:** ~265 MB.
+
+> **Nota de Instalación:** Al descargar e instalar el archivo `.apk` fuera de Google PlayStore, el dispositivo Android solicitará otorgar permiso para *"Instalar aplicaciones de fuentes desconocidas"* en la configuración de seguridad.
+
 ## Estado del Proyecto
 - **Versión actual:** 1.0.0+1 (según `pubspec.yaml`)
 - **Estado de desarrollo:** Finalizado
