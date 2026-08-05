@@ -5,6 +5,15 @@
 ## Descripción
 Tsatsɵ Musik es una aplicación móvil educativa e interactiva, desarrollada con Flutter, diseñada para facilitar el aprendizaje de conceptos básicos como números, vocabulario y más en el idioma Namtrik. La aplicación busca combinar contenido culturalmente relevante con actividades lúdicas y una interfaz atractiva para niños y estudiantes.
 
+## Vista Previa de la Aplicación
+
+<p align="center">
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/general/home-1.webp" width="170" alt="Home 1" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/general/home-2.webp" width="170" alt="Home 2" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/general/home-3.webp" width="170" alt="Home 3" />
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/general/home-4.webp" width="170" alt="Home 4" />
+</p>
+
 ## Estado del Proyecto
 - **Versión actual:** 1.0.0+1 (según `pubspec.yaml`)
 - **Estado de desarrollo:** Finalizado
@@ -104,14 +113,16 @@ namui_wam/
 ```
 
 ## Documentación Detallada por Actividad
-Para obtener información más detallada sobre la implementación, jugabilidad y componentes de cada actividad, consulta los siguientes archivos README:
+Para obtener información detallada sobre la implementación, jugabilidad, componentes y evidencias de cada actividad, consulta la documentación específica:
 
-*   [Actividad 1: Muntsik mөik kөtasha sөl lau (Escoja el número correcto)](docs/features/activity1_readme.md)
-*   [Actividad 2: Muntsikelan pөram kusrekun (Aprendamos a escribir los números)](docs/features/activity2_readme.md)
-*   [Actividad 3: Nөsik utөwan asam kusrekun (Aprendamos a ver la hora)](docs/features/activity3_readme.md)
-*   [Actividad 4: Anwan ashipelɵ kɵkun (Aprendamos a usar el dinero)](docs/features/activity4_readme.md)
-*   [Actividad 5: Muntsielan namtrikmai yunөmarөpik (Convertir números en letras)](docs/features/activity5_readme.md)
-*   [Actividad 6: Wammeran tulisha manchípik kui asamik pөrik (Diccionario)](docs/features/activity6_readme.md)
+| Actividad | Nombre | Evidencia Visual | Documentación |
+| :--- | :--- | :---: | :---: |
+| **Actividad 1** | Muntsik mөik kөtasha sөl lau *(Escoja el número correcto)* | [<img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity1/activity-1.1.webp" width="100"/>](docs/features/activity1_readme.md) | [Ver README](docs/features/activity1_readme.md) |
+| **Actividad 2** | Muntsikelan pөram kusrekun *(Aprendamos a escribir los números)* | [<img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity2/activity-2.1.webp" width="100"/>](docs/features/activity2_readme.md) | [Ver README](docs/features/activity2_readme.md) |
+| **Actividad 3** | Nөsik utөwan asam kusrekun *(Aprendamos a ver la hora)* | [<img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity3/activity-3.1.webp" width="100"/>](docs/features/activity3_readme.md) | [Ver README](docs/features/activity3_readme.md) |
+| **Actividad 4** | Anwan ashipelɵ kɵkun *(Aprendamos a usar el dinero)* | [<img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity4/activity-4.1.webp" width="100"/>](docs/features/activity4_readme.md) | [Ver README](docs/features/activity4_readme.md) |
+| **Actividad 5** | Muntsielan namtrikmai yunөmarөpik *(Convertir números en letras)* | [<img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity5/activity-5.1.webp" width="100"/>](docs/features/activity5_readme.md) | [Ver README](docs/features/activity5_readme.md) |
+| **Actividad 6** | Wammeran tulisha manchípik kui asamik pөrik *(Diccionario)* | [<img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity6/activity-6.1.webp" width="100"/>](docs/features/activity6_readme.md) | [Ver README](docs/features/activity6_readme.md) |
 
 ## Recursos Clave y Dependencias
 El proyecto utiliza varios recursos y paquetes de Flutter:
