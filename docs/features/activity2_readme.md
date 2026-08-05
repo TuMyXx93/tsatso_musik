@@ -134,3 +134,12 @@ La funcionalidad principal de la actividad está completa. Futuras mejoras podr�
     - Se utilizan efectos de sonido (proporcionados por `SoundService`) para reforzar la retroalimentación de acierto o error.
 - **Intentos:** El usuario tiene un número limitado de intentos (usualmente 3) para escribir correctamente el número.
 - **Puntuación y Progreso:** Al acertar, el usuario gana puntos y, si es la primera vez que completa el nivel, este se marca como superado, potencialmente desbloqueando el siguiente.
+
+## Evidencias Visuales e Interfaz
+
+<p align="center">
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity2/activity-2.1.webp" width="260" alt="Actividad 2 - Vista 1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://pub-62be95d745ce4774ae030a0809b1ba8f.r2.dev/activity2/activity-2.2.webp" width="260" alt="Actividad 2 - Vista 2" />
+</p>
+
